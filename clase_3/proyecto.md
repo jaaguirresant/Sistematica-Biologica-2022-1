@@ -14,17 +14,17 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Ligia Juliana Acevedo Amaya, Maria Paula Arevalo Gomez, Samanta Melissa Arévalo Porras, Gabriel Andres Avila Martinez, Vladimir Briceño Pérez, Maria Camila Valdés Cardona|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Fabian Andres Castro Romero, Jhon Fredy Chitiva Riveros, Laura Valeria Cubillos Ariza, Jonathan Stiven Espitia Romero, Sarha Marcela Garcia Rodriguez |https://meet.google.com/znt-nkgk-spt|
-Grupo_3|Victor Manuel Giral Diaz, Sergio Nicolas Gomez Luna, Julian David Gonzalez Pabon, Katherine Camila Guantiva Reina, Ivan Enrique Libreros Coronel|https://meet.google.com/fmm-vgjb-jfa|
-Grupo_4|Larry Estive Lopez Garcia, Angie Paola Martínez Pedraza, Julian Andres Paez Romero, Alejandro Palacios Cubillos, Daniela Parra Serrato|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|Leonardo Pinzón Avendaño, Hans Santiago Poveda Marroquin, Paula Manuela Rojas Zambrano, Miguel Angel Ruiz Cardozo, Ana Gabriela Sanchez Arango|https://meet.google.com/xsj-swtt-qrj|
-Grupo_6|Pablo Andres Segura Forero,  Andres Felipe Sora Martinez, Sebastian Tabares Segovia, Doris Daniela Tolosa Oliveros, Marlon Vladimir Tovar Bolaños, Lauren Sofia Yepes Fernandez|https://meet.google.com/pqb-zqob-aez|
+Grupo_1|Lina María Méndez Urrea, Leonardo Panche, Nelsith Fornaris Hurtado|https://meet.google.com/txm-noak-kxe|
+Grupo_2|Erick Nicolás Patiño Acosta, José Santiago Pérez Galvis, Gloria Fernanda Villamizar Sáenz|https://meet.google.com/znt-nkgk-spt|
+Grupo_3|Alfredo Vega Quiñones, Laura Juliana Triana Corredor, Luisa Alonso, Daniel Jornales|https://meet.google.com/fmm-vgjb-jfa|
+Grupo_4|Pablo Felipe Hernandez Pineda, Juan Miguel Carvajal, Daniela Zuluaga Parra, Laura Valeria Enciso Camacho|https://meet.google.com/vja-tcaj-tzk|
+Grupo_5|Sharyd Sofía López Pineda, Paula Valentina Sánchez Rodríguez, Erick Javier Quintero Silva, Valeria Alejandra Triana Rojas, Juan Diego Herrera Manrique|https://meet.google.com/xsj-swtt-qrj|
+Grupo_6|David Julián Castaño Henao, Dana Sofía Forero Leiva, Andres Betancourt, Victor Diaz, Juan Pablo Gomez|https://meet.google.com/pqb-zqob-aez|
 
 
 #### 2. Preguntas a resolver:
 
-Cada grupo deberá "generar" datos de secuencias de ADN y usar métodos filogenéticos para resolver una pregunta que por muchos años intrigó a los científicos. Las preguntas son las siguientes:
+Cada grupo deberá generar datos de secuencias de ADN y usar métodos filogenéticos para resolver una pregunta que por muchos años intrigó a los científicos. Las preguntas son las siguientes:
   
 **GRUPOS 1 y 2:**
 
@@ -76,7 +76,7 @@ b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
 
 #### 5. Discusión
 
-Después de que las tres presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
+Después de que las dos presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
 
 1. Cada grupo debe escoger de antemano a un miembro del grupo que servirá como vocero del grupo en la discusión. 
  
