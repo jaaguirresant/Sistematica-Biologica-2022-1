@@ -73,6 +73,6 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 **Tarea 1.** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1SP-YRP3jQhl2p5EDTzSmP5smE9-PBpBB?usp=sharing).
 
-**Tarea 2.** Leer la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf)
+**Tarea 2.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf) y el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf)
 
 #
