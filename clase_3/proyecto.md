@@ -67,14 +67,18 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **d. Medidas de confianza:** usar por lo menos una medida de soporte (p.e. bootstrap, Jacknife, Bremer, Probabilidad Posterior).
 
-#### 4. Presentación de resultados (Jueves 27 de mayo de 2021).
+#### 4. Avances del proyecto
+
+A partir de la tercera semana del módulo, cada grupo programará con el profesor una corta reunión (10-30 minutos) para mostrar los avances del proyecto. Para garantizar que todos están participando en el desarrollo del proyecto, el profesor escogerá al azar al miembro del grupo que mostrará el avance. Los grupos también pueden programar reuniones adicionales para resolver dudas. LAs horas disponibles para reninones ls podrán programar en el siguiente enlace: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtiN0lLeGZzdWxKfGRlZmF1bHR8MTliOGE3ODk2MTA0MzM4Y2FjN2U0NGFiODVlY2Y1YTE
+
+#### 5. Presentación de resultados (Jueves 27 de mayo de 2021).
 
 a. Escribir un resumen tipo congreso de máximo 300 palabras donde describan las premisas del estudio, métodos, resultados y conclusión.
 
 b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
 
 
-#### 5. Discusión
+#### 6. Discusión
 
 Después de que las dos presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
 
