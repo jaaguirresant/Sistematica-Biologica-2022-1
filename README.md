@@ -61,15 +61,15 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 **1. Repaso árboles filogenéticos y caracteres.** Durante la primera parte de la clase haremos un breve repaso de conceptos fundamentales sobre la lectura de árboles filogenéticos y la interpretación de la evolución de los caracteres. Esta clase incluye una corta presentación con pequeños quizes anónimos relámpago para evaluar qué tan solidos están los conceptos básicos por parte de los estudiantes. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas.
 
-**2. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 1](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
+**2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)). Las presentaciones y entrega de resumen para este proyecto serán el **Jueves 27 de mayo de 2021**
+
+**3. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 1](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
 
 <p align="center">
   <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
 </p>
 
 [Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
-
-**3. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)). Las presentaciones y entrega de resumen para este proyecto serán el **Jueves 27 de mayo de 2021**
 
 **Tarea 1.** Subir las respuestas del taller 1 a la carpeta "Taller 1" del Drive del curso.
 
