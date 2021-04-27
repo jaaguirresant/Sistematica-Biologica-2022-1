@@ -14,8 +14,8 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Lina María Méndez Urrea, Leonardo Panche, Nelsith Fornaris Hurtado|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Erick Nicolás Patiño Acosta, José Santiago Pérez Galvis, Gloria Fernanda Villamizar Sáenz|https://meet.google.com/znt-nkgk-spt|
+Grupo_1|Lina María Méndez Urrea, Leonardo Panche, Nelsith Fornaris Hurtado, Jose Armando Cruz Lima|https://meet.google.com/txm-noak-kxe|
+Grupo_2|Erick Nicolás Patiño Acosta, José Santiago Pérez Galvis, Gloria Fernanda Villamizar Sáenz, Lucas Cervantes H|https://meet.google.com/znt-nkgk-spt|
 Grupo_3|Alfredo Vega Quiñones, Laura Juliana Triana Corredor, Luisa Alonso, Daniel Jornales|https://meet.google.com/fmm-vgjb-jfa|
 Grupo_4|Pablo Felipe Hernandez Pineda, Juan Miguel Carvajal, Daniela Zuluaga Parra, Laura Valeria Enciso Camacho|https://meet.google.com/vja-tcaj-tzk|
 Grupo_5|Sharyd Sofía López Pineda, Paula Valentina Sánchez Rodríguez, Erick Javier Quintero Silva, Valeria Alejandra Triana Rojas, Juan Diego Herrera Manrique|https://meet.google.com/xsj-swtt-qrj|
