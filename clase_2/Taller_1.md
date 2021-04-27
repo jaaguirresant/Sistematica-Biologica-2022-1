@@ -25,15 +25,15 @@
 
 5. ¿Qué taxones escogieron los autores como grupo interno?
 
-6. ¿Usted cree que los taxones del grupo interno representan bien la diversidad de los Theridiidos?
+6. Liste las ventajas y desventajas de usar un "groundplan" para estudiar las relaciones flogenéticas entre géneros vs. el uso de especies representativas de los géneros.     
+
+7. ¿Usted cree que los taxones del grupo interno representan bien la diversidad de los Theridiidos?
 
 #
 
 ## MUESTREO DE CARACTERES:
 
-7. ¿Qué tipo de caracteres usaron los autores para los análisis?
-
-8. ¿Cuántos caracteres escogieron?
+8. ¿Qué tipo de caracteres usaron los autores para los análisis?
 
 9. ¿Cómo garantizaron los autores que los caracteres escogidos son realmente homólogos?
 
