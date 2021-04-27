@@ -53,7 +53,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**Clase 1. Esta clase estará dividida en dos partes:**
+**Clase 1. Esta clase estará dividida en tres partes:**
 
 **1. Repaso árboles filogenéticos y caracteres.** Durante la primera parte de la clase haremos un breve repaso de conceptos fundamentales sobre la lectura de árboles filogenéticos y la interpretación de la evolución de los caracteres. Esta clase incluye una corta presentación ([bajar presentación aquí](/clase_1/clase_1.pdf)), complementada con pequeños quizes anónimos relámpago. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas.
 
@@ -65,8 +65,9 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 [Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
 
+**3. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)). Las presentaciones y entrega de resumen para este proyecto serán el **Jueves 27 de mayo de 2021**
 
-**Tarea 1.** Subir las respuestas del taller a la carpeta "Taller 1" del Drive del curso.
+**Tarea 1.** Subir las respuestas del taller 1 a la carpeta "Taller 1" del Drive del curso.
 
 **Tarea 2.** Leer la siguiente guía rápida de generación de matrices morfológicas: [Matrices]()
 
