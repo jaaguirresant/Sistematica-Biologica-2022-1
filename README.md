@@ -69,6 +69,6 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **Tarea 1.** Subir las respuestas del taller 1 a la carpeta "Taller 1" del Drive del curso.
 
-**Tarea 2.** Leer la siguiente guía rápida de generación de matrices morfológicas: [Matrices]()
+**Tarea 2.** Leer la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf)
 
 #
