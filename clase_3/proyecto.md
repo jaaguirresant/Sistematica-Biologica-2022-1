@@ -69,7 +69,7 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 #### 4. Avances del proyecto
 
-A partir de la tercera semana del módulo, cada grupo programará con el profesor una corta reunión (10-30 minutos) para mostrar los avances del proyecto. Para garantizar que todos están participando en el desarrollo del proyecto, el profesor escogerá al azar al miembro del grupo que mostrará el avance. Los grupos también pueden programar reuniones adicionales para resolver dudas. Las horas disponibles para reninones las podrán programar en el siguiente enlace: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtiN0lLeGZzdWxKfGRlZmF1bHR8MTliOGE3ODk2MTA0MzM4Y2FjN2U0NGFiODVlY2Y1YTE
+A partir de la tercera semana del módulo, cada grupo programará con el profesor una corta reunión (10-30 minutos) para mostrar los avances del proyecto. Para garantizar que todos están participando en el desarrollo del proyecto, el profesor escogerá al azar al miembro del grupo que mostrará el avance. Los grupos también pueden programar reuniones adicionales para resolver dudas. Las horas disponibles para reuniones las podrán programar en el siguiente enlace: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtiN0lLeGZzdWxKfGRlZmF1bHR8MTliOGE3ODk2MTA0MzM4Y2FjN2U0NGFiODVlY2Y1YTE
 
 #### 5. Presentación de resultados (Jueves 27 de mayo de 2021).
 
