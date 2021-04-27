@@ -49,6 +49,10 @@ Aunque este módulo está diseñado para llevarse a cabo mínimamente con acceso
 
 Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento. 
 
+#### Evaluación
+
+La nota del módulo será dividida de la siguiente manera: talleres y tareas (60%), proyecto del módulo (40%).
+
 ## Contenido
 
 #
