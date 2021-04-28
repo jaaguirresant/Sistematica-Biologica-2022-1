@@ -63,8 +63,6 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 **2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)). Las presentaciones y entrega de resumen para este proyecto serán el **Jueves 27 de mayo de 2021**
 
-**3. 
-
 **Tarea.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf) y el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf)
 
 #
