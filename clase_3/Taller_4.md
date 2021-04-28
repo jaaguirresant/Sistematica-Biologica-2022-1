@@ -63,7 +63,9 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 5. ¿A qué equivale el proceso de alineamiento secuencias hecho por Mafft en comparación con ejercicio de codificación de caracteres morfológicos de la PARTE 1 de este taller?
 
-## Ejercicios avanzados (OPCIONALES)
+#
+
+## PARTE 3: Ejercicios avanzados (OPCIONALES)
 
 6. Paso a paso para generar matrices en Mesquite
 
