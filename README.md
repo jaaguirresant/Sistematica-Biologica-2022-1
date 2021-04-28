@@ -57,13 +57,21 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 #
 
-**Clase 1. Esta clase estará dividida en tres partes:**
+**Clase 1. Esta clase estará dividida en dos partes:**
 
 **1. Repaso árboles filogenéticos y caracteres.** Durante la primera parte de la clase haremos un breve repaso de conceptos fundamentales sobre la lectura de árboles filogenéticos y la interpretación de la evolución de los caracteres. Esta clase incluye una corta presentación con pequeños quizes anónimos relámpago para evaluar qué tan solidos están los conceptos básicos por parte de los estudiantes. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas.
 
 **2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)). Las presentaciones y entrega de resumen para este proyecto serán el **Jueves 27 de mayo de 2021**
 
-**3. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 1](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
+**3. 
+
+**Tarea.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf) y el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf)
+
+#
+
+**[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** Esta clase estará dividida en dos partes:
+
+**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 1](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
 
 <p align="center">
   <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
@@ -71,8 +79,13 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 [Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
 
-**Tarea 1.** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1SP-YRP3jQhl2p5EDTzSmP5smE9-PBpBB?usp=sharing).
+**Tarea:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1SP-YRP3jQhl2p5EDTzSmP5smE9-PBpBB?usp=sharing).
 
-**Tarea 2.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf) y el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf)
+**2. Matrices de caracteres para inferencia filogenética.** En esta parte práctica sentaremos las bases de la construcción de matrices de datos para inferir hipótesis filogenéticas. Hablaremos sobre homología primaria y codificación de matrices y haremos un taller de construcción de matrices morfológicas y de secuencias de ADN. En este último ejercicio aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender los formatos de archivos para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_4.md).
 
-#
+**Tarea:** Subir las respuestas del taller 2 a la carpeta "Taller 2" del [Drive del curso](https://drive.google.com/drive/folders/1SP-YRP3jQhl2p5EDTzSmP5smE9-PBpBB?usp=sharing).
+
+**_NOTA:_** Para las próximas dos clases se requiere leer alguno de los siguientes artículos:
+
+- Máxima Parsimonia: [Lanteri (2006)](/clase_3/Parsimonia.pdf) **o** [Baum & Smith (2013)](/clase_3/MP_baum_smith2013.pdf)
+
