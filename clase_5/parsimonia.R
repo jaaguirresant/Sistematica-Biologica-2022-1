@@ -74,6 +74,7 @@ parsimony(Primates_NJ,Primates_ADN)
 ?optim.parsimony # De nuevo: vale la pena entender como funciona la función
 
 Primates_optim <- optim.parsimony(Primates_NJ, Primates_ADN)
+Primates_optim <-root(Primates_optim, outgroup="Lemur_catta", resolve.root=TRUE)
 plot(Primates_optim)
 Primates_optim
 str(Primates_optim)
@@ -96,20 +97,22 @@ RI(Primates_optim, Primates_ADN, cost = NULL) #calcula el índice de retención
 
 ?pratchet # De nuevo: vale la pena entender como funciona la función
 
-Primates_pratchet <- pratchet(Primates_ADN)
+Primates_pratchet <- pratchet(Primates_ADN, all=TRUE)
+Primates_pratchet <-root(Primates_pratchet, outgroup="Lemur_catta", resolve.root=TRUE)
 plot(Primates_pratchet)
 Primates_pratchet
+plot(Primates_pratchet[[1]])
+plot(Primates_pratchet[[2]])
 
 # Pregunta 10: ¿Cuántos árboles más parsimoniosos se encontraron?
 
 # Pregunta 11: ¿Encontraron alguna diferencia en los resultados de los árboles de distancia con los de parsimonia?¿Cuáles? 
 
-# *****AYUDA**** Para facilitar la comparación entre árboles, es mejor comparar los árboles enraizados. Para esto, pueden usar la función "root" para enraizar el árbol especificando el grupo externo:
-
-?root
-arbol_enraizado_ratchet <-root(Primates_pratchet, outgroup="Lemur_catta")
-plot(arbol_enraizado_ratchet)
-
 # Los árboles se pueden guardar en un archivo newick para análisis posteriores
 
 write.tree(Primates_pratchet, file="ratchet_Primates.tre")
+
+# Comparemos ahora las longitudes de todos los árboles que hemos generado:
+parsimony(c(Primates_NJ, Primates_UPGMA, Primates_optim, Primates_pratchet), Primates_ADN)
+
+# TAREA: repetir este taller con sus matrices de datos. Si tienen múltiples marcadores, realizar el ejercicio con solo uno de ellos.
