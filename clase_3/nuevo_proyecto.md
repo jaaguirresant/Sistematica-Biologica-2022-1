@@ -16,17 +16,18 @@
 
 Los grupos de trabajo son los siguientes (contactar al profesor si no encuentra su nombre en la lista):
 
-1. Lina María Méndez Urrea, Leonardo Panche
-2. Nelsith Fornaris Hurtado, Jose Armando Cruz Lima
-3. Erick Nicolás Patiño Acosta, José Santiago Pérez Galvis
-4. Gloria Fernanda Villamizar Sáenz, Lucas Cervantes H
-5. Alfredo Vega Quiñones, Laura Juliana Triana Corredor
-6. Luisa Alonso, Daniel Jornales
-7. Gabriela Rincón Pinilla, Pablo Felipe Hernandez Pineda
-8. Juan Miguel Carvajal, Daniela Zuluaga Parra
-9. Laura Valeria Enciso Camacho, Valentina Garcia
-10. Sharyd Sofía López Pineda, Paula Valentina Sánchez Rodríguez
-11. Erick Javier Quintero Silva, Valeria Alejandra Triana Rojas
-12. Juan Diego Herrera Manrique, David Julián Castaño Henao
-13. Dana Sofía Forero Leiva, Andres Betancourt
-14. Victor Diaz, Juan Pablo Gomez
+1. Lina María Méndez Urrea, Leonardo Panche (Carnivora)
+2. Nelsith Fornaris Hurtado, Jose Armando Cruz Lima (Carnivora)
+3. Erick Nicolás Patiño Acosta, José Santiago Pérez Galvis (Carnivora)
+4. Gloria Fernanda Villamizar Sáenz, Lucas Cervantes H (Carnivora)
+5. Alfredo Vega Quiñones, Laura Juliana Triana Corredor (Bromelias)
+6. Luisa Alonso, Daniel Jornales (Bromelias)
+7. Gabriela Rincón Pinilla, Pablo Felipe Hernandez Pineda (Bromelias)
+8. Juan Miguel Carvajal, Daniela Zuluaga Parra (Bromelias)
+9. Laura Valeria Enciso Camacho, Valentina Garcia (Bromelias)
+10. Sharyd Sofía López Pineda, Paula Valentina Sánchez Rodríguez (Carnivora)
+11. Erick Javier Quintero Silva, Valeria Alejandra Triana Rojas (Carnivora)
+12. Juan Diego Herrera Manrique, David Julián Castaño Henao (Bromelias)
+13. Dana Sofía Forero Leiva, Andres Betancourt (Bromelias)
+14. Victor Diaz, Juan Pablo Gomez (Carnivora)
+15. Angel Giovanny Santos, Cindy Natali Torres Castillo (Bromelias)
