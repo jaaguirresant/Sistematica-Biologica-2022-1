@@ -115,4 +115,4 @@ write.tree(Primates_pratchet, file="ratchet_Primates.tre")
 # Comparemos ahora las longitudes de todos los árboles que hemos generado:
 parsimony(c(Primates_NJ, Primates_UPGMA, Primates_optim, Primates_pratchet), Primates_ADN)
 
-# TAREA: repetir este taller con sus matrices de datos. Si tienen múltiples marcadores, realizar el ejercicio con solo uno de ellos.
+# TAREA: repetir este taller con sus matrices de datos.
