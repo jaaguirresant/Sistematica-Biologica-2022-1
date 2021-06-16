@@ -1,6 +1,6 @@
 # Nuevo proyecto del módulo (en parejas):
 
-1. Usted y su compañero(a) recibirán una matriz de secuencias de ADN alineadas. La matriz se entregará en cuatro formatos: fasta, phylip, tnt y nexus
+1. Usted y su compañero(a) recibirán una matriz de secuencias de ADN alineadas. La matriz se entregará en cuatro formatos: fasta, phylip y nexus
 
 2. Escriba una breve introducción de máximo media página donde se describa el grupo de interés y el problema de estudio o pregunta de investigación (esto será discutido en clase).
 
