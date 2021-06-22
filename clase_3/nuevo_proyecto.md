@@ -2,7 +2,7 @@
 
 1. Usted y su compañero(a) recibirán una matriz de secuencias de ADN alineadas. La matriz se entregará en tres formatos: fasta, phylip y nexus
 
-2. Escriba una breve introducción de máximo media página donde se describa el grupo de interés y el problema de estudio o pregunta de investigación (esto será discutido en clase).
+2. Escriba una breve introducción de máximo media página donde se describa el grupo de interés y el problema de estudio o pregunta de investigación (esto será discutido en clase). Pueden ver la presentación de los problemas de investigación en estas diaposivas: [ver presentación aquí](/clase_3/Proyecto.pdf)
 
 3. Infiera la(s) hipótesis filogenética(s) más plausible(s) usando máxima parsimonia (MP) y máxima verosimilitud (MV) (inferencia bayesiana (IB) opcional), incluyendo en todos los casos medidas de confianza de los clados.
 
