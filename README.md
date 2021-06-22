@@ -164,7 +164,7 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 
 **NOTA 2:** Recuerden que para esta y la próxima clase deben haber leído alguno de los siguientes capítulos:
 
-[Baum & Smith (2009)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
+[Baum & Smith (2013)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
 
 #
 
