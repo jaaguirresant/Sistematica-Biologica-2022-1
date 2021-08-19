@@ -139,7 +139,7 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 
 1. Máxima Verosimilitud en R ([ir al Script de R aquí](/clase_6/ML.R)). Para este ejercicio usaremos la matriz [ADN.nex](/clase_3/ADN.nex).
 
-2. Máxima Verosimilitud con JModelTest y RAxML-GUI. Para este ejercicio usaremos la matriz [ADN.nex](/clase_3/ADN.phy)
+2. Máxima Verosimilitud con JModelTest y RAxML-GUI. Para este ejercicio usaremos la matriz [ADN.phy](/clase_3/ADN.phy)
 
 **Tarea 1:** En sus grupos del proyecto, responder las preguntas del ejercicio de [Máxima Verosimilitud en R](/clase_6/ML.R).
 
