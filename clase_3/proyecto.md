@@ -14,11 +14,11 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Nicolas Romero Villamil, Lina María Méndez Urrea, Adelaida Turriago Mora|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Gabriela Muñoz Quintana, Boris Alejandro Cardenas Contreras, Xaira Natalia Muñoz Esguerra|https://meet.google.com/znt-nkgk-spt|
-Grupo_3|Manuel Alejandro Tobos Jimenez, Harryson Giovanny Avila Orjuela|https://meet.google.com/fmm-vgjb-jfa|
+Grupo_1|??|https://meet.google.com/txm-noak-kxe|
+Grupo_2|??|https://meet.google.com/znt-nkgk-spt|
+Grupo_3|??|https://meet.google.com/fmm-vgjb-jfa|
 Grupo_4|¿¿|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|Santiago Alberto Samudio Sánchez|https://meet.google.com/xsj-swtt-qrj|
+Grupo_5|??|https://meet.google.com/xsj-swtt-qrj|
 Grupo_6|¿¿|https://meet.google.com/pqb-zqob-aez|
 
 
