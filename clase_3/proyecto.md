@@ -18,7 +18,7 @@ Grupo_1|Nicolas Romero Villamil, Lina María Méndez Urrea, Adelaida Turriago Mo
 Grupo_2|Gabriela Muñoz Quintana, Boris Alejandro Cardenas Contreras, Xaira Natalia Muñoz Esguerra|https://meet.google.com/znt-nkgk-spt|
 Grupo_3|Manuel Alejandro Tobos Jimenez, |https://meet.google.com/fmm-vgjb-jfa|
 Grupo_4|¿¿|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|Santiago Alberto Samudio Sánchez, Santiago Alberto Samudio Sánchez |https://meet.google.com/xsj-swtt-qrj|
+Grupo_5|Santiago Alberto Samudio Sánchez|https://meet.google.com/xsj-swtt-qrj|
 Grupo_6|¿¿|https://meet.google.com/pqb-zqob-aez|
 
 
