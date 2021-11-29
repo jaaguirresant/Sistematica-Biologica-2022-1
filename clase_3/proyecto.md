@@ -14,17 +14,17 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Lina María Méndez Urrea, Leonardo Panche, Nelsith Fornaris Hurtado, Jose Armando Cruz Lima|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Erick Nicolás Patiño Acosta, José Santiago Pérez Galvis, Gloria Fernanda Villamizar Sáenz, Lucas Cervantes H|https://meet.google.com/znt-nkgk-spt|
-Grupo_3|Alfredo Vega Quiñones, Laura Juliana Triana Corredor, Luisa Alonso, Daniel Jornales, Gabriela Rincón Pinilla|https://meet.google.com/fmm-vgjb-jfa|
-Grupo_4|Pablo Felipe Hernandez Pineda, Juan Miguel Carvajal, Daniela Zuluaga Parra, Laura Valeria Enciso Camacho, Valentina Garcia|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|Sharyd Sofía López Pineda, Paula Valentina Sánchez Rodríguez, Erick Javier Quintero Silva, Valeria Alejandra Triana Rojas, Juan Diego Herrera Manrique|https://meet.google.com/xsj-swtt-qrj|
-Grupo_6|David Julián Castaño Henao, Dana Sofía Forero Leiva, Andres Betancourt, Victor Diaz, Juan Pablo Gomez|https://meet.google.com/pqb-zqob-aez|
+Grupo_1|¿¿|https://meet.google.com/txm-noak-kxe|
+Grupo_2|¿¿ |https://meet.google.com/znt-nkgk-spt|
+Grupo_3|¿¿|https://meet.google.com/fmm-vgjb-jfa|
+Grupo_4|¿¿|https://meet.google.com/vja-tcaj-tzk|
+Grupo_5|¿¿|https://meet.google.com/xsj-swtt-qrj|
+Grupo_6|¿¿|https://meet.google.com/pqb-zqob-aez|
 
 
 #### 2. Preguntas a resolver:
 
-Cada grupo deberá generar datos de secuencias de ADN y usar métodos filogenéticos para resolver una pregunta que por muchos años intrigó a los científicos. Las preguntas son las siguientes:
+Cada grupo deberá "generar" datos de secuencias de ADN y usar métodos filogenéticos para resolver una pregunta que por muchos años intrigó a los científicos. Las preguntas son las siguientes:
   
 **GRUPOS 1 y 2:**
 
@@ -39,7 +39,7 @@ Desde Darwin y muchas décadas después, los llamados "grandes simios" (chimpanc
 
 **GRUPOS 3 y 4:**
 
-Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para los botánicos, ya que tienen característcas intermedias entre una gimnosperma (p.e. semillas desnudas y estructuras reproductivas agrupadas en estróbilos) y una angiosperma (p.e. elementos del vaso en xilema, hojas de venación reticulada, doble fertilización y polinización zoocórica). Con base en esta información, surge la siguiente pregunta: ¿Es el género _Gnetum_ una gimnosperma, una angiosperma o ninguna de las dos?
+Las plantas del género _Gnetum_ han sido por muchas décadas un misterio para los botánicos, ya que tienen característcas intermedias entre una gimnosperma (p.e. semillas desnudas y estructuras reproductivas agrupadas en estróbilos) y una angiosperma (p.e. elementos del vaso en xilema, hojas de venación reticulada, doble fertilización y polinización por animales). Con base en esta información, surge la siguiente pregunta: ¿Es el género _Gnetum_ una gimnosperma, una angiosperma o ninguna de las dos?
 
 <p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/544591e6e4b0135285aeb5b6/1515445997181-DFSI4XBJNUCU3N0KD8VE/ke17ZwdGBToddI8pDm48kDEDYh4Y0JGhR6hzuwcJ44gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz6bs2FkMoqlrQIzq4g5ogDqXr_T7rMikH_TfPkEE4wwzGwe9KEhUq6A0DxOZf-75/6863727669_019293fded_b.jpg?format=750w" width="330" height="300" />
@@ -63,24 +63,20 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **b. Muestreo de caracteres:** deben ser secuencias de ADN, limitadas a 1–3 marcadores: (p.e. COI, 18S o CytB para animales y matK, trnLF, rbcl para plantas). Se pueden usar caracteres morfológicos también (opcional).
 
-**c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. distancias, Inferencia Hennigiana, Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
+**c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. Inferencia Hennigiana, Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
 
 **d. Medidas de confianza:** usar por lo menos una medida de soporte (p.e. bootstrap, Jacknife, Bremer, Probabilidad Posterior).
 
-#### 4. Avances del proyecto
-
-A partir de la tercera semana del módulo, cada grupo programará con el profesor una corta reunión (10-30 minutos) para mostrar los avances del proyecto. Para garantizar que todos están participando en el desarrollo del proyecto, el profesor escogerá al azar al miembro del grupo que mostrará el avance. Los grupos también pueden programar reuniones adicionales para resolver dudas. Las horas disponibles para reuniones las podrán programar en el siguiente enlace: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtiN0lLeGZzdWxKfGRlZmF1bHR8MTliOGE3ODk2MTA0MzM4Y2FjN2U0NGFiODVlY2Y1YTE
-
-#### 5. Presentación de resultados (Jueves 27 de mayo de 2021).
+#### 4. Presentación de resultados (Martes 11 de enero de 2022).
 
 a. Escribir un resumen tipo congreso de máximo 300 palabras donde describan las premisas del estudio, métodos, resultados y conclusión.
 
 b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
 
 
-#### 6. Discusión
+#### 5. Discusión
 
-Después de que las dos presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
+Después de que las presentaciones que responden a la misma pregunta hayan terminado, comenzará un bloque de discusión crítica entre los dos grupos que presentaron. La idea es que las preguntas sean críticas del estudio de sus compañeros y sepan defender sus propios resultados. Al final de las presentaciones y la discusión, el resto de sus compañeros y el profesor votarán por el estudio más convincente. Acá están las pautas de esta actividad:
 
 1. Cada grupo debe escoger de antemano a un miembro del grupo que servirá como vocero del grupo en la discusión. 
  
