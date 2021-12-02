@@ -14,12 +14,13 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|??|https://meet.google.com/txm-noak-kxe|
-Grupo_2|??|https://meet.google.com/znt-nkgk-spt|
-Grupo_3|??|https://meet.google.com/fmm-vgjb-jfa|
-Grupo_4|¿¿|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|??|https://meet.google.com/xsj-swtt-qrj|
-Grupo_6|¿¿|https://meet.google.com/pqb-zqob-aez|
+Grupo_1|Nicolas Romero Villamil, Lina María Méndez Urrea, Adelaida Turriago Mora|https://meet.google.com/txm-noak-kxe|
+Grupo_2|Gabriela Muñoz Quintana, Boris Alejandro Cardenas Contreras, Xaira Natalia Muñoz Esguerra|https://meet.google.com/znt-nkgk-spt|
+Grupo_3|Manuel Alejandro Tobos Jimenez, Harryson Giovanny Avila Orjuela, Santiago Castaño Sirosi, Doris Daniela Tolosa|https://meet.google.com/fmm-vgjb-jfa|
+Grupo_4|Lenis Lorena Pardo, Andrés Nicolás Ramírez Barrers, Angy Melissa Rozo Leal, Santiago Cortes Camargo|https://meet.google.com/vja-tcaj-tzk|
+Grupo_5|Santiago Alberto Samudio Sánchez, Diego Alejandro Serrano, Hans Deyvy Escobar Hurtado, Andres Camilo Betancourt Pulido|https://meet.google.com/xsj-swtt-qrj|
+Grupo_6| LUISA CASALLAS, Nicolas Castaño Sirosi, Yeison Dannilo Escobar Avila |https://meet.google.com/pqb-zqob-aez|
+
 
 
 #### 2. Preguntas a resolver:
