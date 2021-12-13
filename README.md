@@ -128,3 +128,17 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 [Baum & Smith (2013)](/clase_5/baumsmith2013_ML.pdf) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf)
 
 #
+
+**Clase 6. Máxima Verosimilitud II e Inferencia Bayesiana.** Esta cubrirá la implementación de la estadística bayesiana en el contexto de la inferencia filogenética (bajar diapositivas [aquí](/clase_7/clase_7.pdf). Además, se hará una demostración práctica de los siguientes análisis:
+
+1. Máxima Verosimilitud en R ([ir al Script de R aquí](/clase_6/ML.R)). Para este ejercicio usaremos la matriz [ADN.nex](/clase_3/ADN.nex).
+
+2. Máxima Verosimilitud con JModelTest y RAxML-GUI. Para este ejercicio usaremos la matriz [ADN.phy](/clase_3/ADN.phy)
+
+**Tarea 1:** En sus grupos del proyecto, responder las preguntas del ejercicio de [Máxima Verosimilitud en R](/clase_6/ML.R).
+
+**Tarea 2:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_7/Lectura.pdf).
+
+**Tarea 3:** Bajar e instalar en sus computadores el programa [BEAST2](https://www.beast2.org/)
+
+#
