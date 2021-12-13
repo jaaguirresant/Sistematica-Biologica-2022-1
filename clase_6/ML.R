@@ -7,7 +7,7 @@
 
 # Limpiar la memoria antes de comenzar
 
-rm(list=ls())
+rm(list=ls()) 
 
 # Asignamos la carpeta en la que vamos a trabajar
 
@@ -68,7 +68,7 @@ print(resultados_modelo)
 
 ####################### D. Exploración de datos y árbol inicial  ######################
 
-# Al igual que la parsimonia, la máxima verosimilitud requiere un árbol inicial para comnezar los análisis, ya que este método usa los mismos métodos heurísticos para la búsqueda de árboles. En este caso inferiremos un árbol de distancia con UPGMA y otro con NJ para la exploración de datos y también para usar uno de ellos como árbol inicial en los análisis de Máxima Verosimilitud.
+# Al igual que la parsimonia, la máxima verosimilitud requiere un árbol inicial para comenzar los análisis, ya que este método usa los mismos métodos heurísticos para la búsqueda de árboles. En este caso inferiremos un árbol de distancia con UPGMA y otro con NJ para la exploración de datos y también para usar uno de ellos como árbol inicial en los análisis de Máxima Verosimilitud.
 
 dm <- dist.ml(Primates_ADN) # Generamos la matriz de distancias (corregidas usando el modelo JC69). También pueden generarlo con el modelo escogdo por modelTest.
 arbolUPGMA <- upgma(dm)
@@ -141,14 +141,3 @@ max_verosim_GTR_gamma_I$tree
 # Dibujemos el árbol:
 root(max_verosim_GTR_gamma_I$tree,outgroup="Tarsius_syrichta")->arbol_GTR_gamma_I_enraizado
 plot(arbol_GTR_gamma_I_enraizado)
-
-##### EXTRA: bootstrap #######
-
-bs = bootstrap.pml(max_verosim_JC, bs=100, optNni=TRUE, control = pml.control(trace = 0))
-par(mfrow=c(2,1))
-par(mar=c(1,1,3,1))
-plotBS(midpoint(max_verosim_JC$tree), bs, p = 50, type="p")
-title("a)")
-cnet <- consensusNet(bs, p=0.2)
-plot(cnet, "2D", show.edge.label=TRUE)
-title("b)")
