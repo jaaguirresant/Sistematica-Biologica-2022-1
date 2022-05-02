@@ -26,11 +26,11 @@ Figura tomada de: _https://scx2.b-cdn.net/gfx/news/hires/2015/treeoflifefo.jpg_
 
 ### Preparación
 
-Este módulo ha sido diseñado para estudiantes del curso de pregrado "Sistemática Biológica" del programa de Biología de la Universidad Nacional de Colombia. Los estudiantes inscritos en este curso ya debieron haber tomado clases previas sobre temas introductorios de evolución y sistemática filogenética para poder seguir con los contenidos de este módulo. Este módulo fue diseñado para ser tomado de manera remota dada la emergencia generada por el COVID-19. 
+Este módulo ha sido diseñado para estudiantes del curso de pregrado "Sistemática Biológica" del programa de Biología de la Universidad Nacional de Colombia. Los estudiantes inscritos en este curso ya debieron haber tomado clases previas sobre temas introductorios de evolución y sistemática filogenética para poder seguir con los contenidos de este módulo.
 
 #### Requerimientos y materiales básicos
 
-Aunque este módulo está diseñado para llevarse a cabo mínimamente con acceso a un computador, celular o tablet durante las horas de clase y para acceder a los ejercicios, se recomienda a los estudiantes que puedan y tengan acceso a computadores propios bajar los siguientes programas:
+Se recomienda a los estudiantes que puedan y tengan acceso a computadores propios bajar los siguientes programas:
 
 - Editor de texto (recomendados notepad++ para Windows y Atom o BBEdit para Mac).
 - [MEGA X](https://www.megasoftware.net/). Útil para muchas tareas asociadas a análisis filogenéticos usando secuencias de ADN.
@@ -45,44 +45,29 @@ Aunque este módulo está diseñado para llevarse a cabo mínimamente con acceso
 
 **Nota:** Todos los programas de inferencia filogenética vienen acompañados con sus respectivos tutoriales. Se sugiere seguirlos en su tiempo libre si quieren adquirir destrezas más avanzadas; no se limiten únicamente a los ejercicios de la clase.  
 
-### Dinámica de las clases
-
-Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento. 
-
 #### Evaluación
 
-La nota del módulo será dividida de la siguiente manera: talleres y tareas (60%), proyecto del módulo (40%).
+La nota del módulo será dividida de la siguiente manera: talleres, quizes y tareas (60%), proyecto del módulo (40%).
 
 ## Contenido
 
 #
 
-**Clase 1. Repaso árboles filogenéticos y caracteres.** Durante la primera parte de la clase haremos un breve repaso de conceptos fundamentales sobre la lectura de árboles filogenéticos y la interpretación de la evolución de los caracteres. Esta clase incluye una corta presentación con pequeños quizes anónimos relámpago para evaluar qué tan solidos están los conceptos básicos por parte de los estudiantes. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas.
+**[Clase 1](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** 
 
-**Tarea.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf), el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf) y las secciones de introducción y métodos del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf).
-
-#
-
-**[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** 
-
-**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las siguientes preguntas: [Preguntas dirigidas](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
-
-<p align="center">
-  <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
-</p>
-
-[Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
+**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
 
 **2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)).
 
 **3. Matrices de caracteres para inferencia filogenética.** En esta parte práctica sentaremos las bases de la construcción de matrices de datos para inferir hipótesis filogenéticas. Hablaremos sobre homología primaria y codificación de matrices y haremos un taller de construcción de matrices morfológicas y de secuencias de ADN. En este último ejercicio aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender los formatos de archivos para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_4.md).
 
-**Tarea:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1m96VlJSvoxQtYfrDVoSJved-L9_Uu0hH?usp=sharing).
+**Tarea 1:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso]() a mas tardar el lunes 9 de mayo.
 
-**_NOTA:_** Para las próximas dos clases se requiere leer alguno de los siguientes artículos:
+**_NOTA:_** Para la próxima clases se requiere leer alguno de los siguientes artículos:
 
 - Máxima Parsimonia: [Lanteri (2006)](/clase_3/Parsimonia.pdf) **o** [Baum & Smith (2013)](/clase_3/MP_baum_smith2013.pdf)
 
+#
 #
 
 **[Clase 3](/clase_4/Taller_MP.md). Distancias, Inferencia Hennigiana y Máxima Parsimonia (Parte I)** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_4.pdf). Para la parte práctica, haremos el siguiente taller con los mismos grupos de trabajo de siempre: 
