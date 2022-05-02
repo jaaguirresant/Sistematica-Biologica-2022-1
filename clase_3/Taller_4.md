@@ -5,9 +5,8 @@ _[Volver al inicio](/README.md)_
 La matriz de caracteres es el principal requisito para utilizar cualquier programa computacional de inferencia filogenética. Esta matriz es simplemente una tabla cuyas filas coresponden a los taxones, las columnas a los caracteres individuales y las celdas contienen el estado de caracter codificado. Este taller busca que los estudiantes aprendan a construir estas matrices de manera adecuada y dejarlas listas para ser analizadas por programas de computador.
 
 #
-## Matrices con datos de secuencias de ADN
 
-# Formatos
+## Matrices con datos de secuencias de ADN
 
 Aunque las matrices serían muy fáciles de elaborar en una tabla de Excel, este formato no es recomendado, ya que tienen muchos caracteres de formato escondido que los programas de inferencia filogenética no pueden reconocer. Por esta razón, dichos programas exigen que la matriz de caracteres esté en el formato más simple posible. Para esta clase vamos a explorar los tres formatos más populares para construir y almacenar matrices de datos de ADN: Fasta, Nexus, Phyllip y TNT. A continuación se describen los pasos a seguir:
 
@@ -38,7 +37,7 @@ Más información sobre el formato TNT: [Aquí](http://phylo.wikidot.com/tnt-htm
 
 Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washington.edu/phylip/doc/main.html#inputfiles)
 
-## Construcción de una matriz a partir de datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/)(opcional)
+## Construcción de una matriz a partir de datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/)
 
 2. Bajar de GenBank 10 secuencias de ADN del gen Cyt b de cualquier grupo de animales de su interés en formato fasta. Describa el contenido de este archivo. (Se recomienda abrir este archivo en un editor de texto como notepad++).
 
