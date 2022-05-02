@@ -5,22 +5,7 @@ _[Volver al inicio](/README.md)_
 La matriz de caracteres es el principal requisito para utilizar cualquier programa computacional de inferencia filogenética. Esta matriz es simplemente una tabla cuyas filas coresponden a los taxones, las columnas a los caracteres individuales y las celdas contienen el estado de caracter codificado. Este taller busca que los estudiantes aprendan a construir estas matrices de manera adecuada y dejarlas listas para ser analizadas por programas de computador.
 
 #
-
-Realizar el siguiente taller en los mismos grupos de trabajo asignados para el proyecto del módulo.
-
-#
-
-## PARTE 1: Construcción de matriz con datos morfológicos
-
-1. Cada grupo deberá hacer una sencilla pregunta de investigación sobre las relaciones filogenéticas de cualquier grupo de seis organismos vivos de fácil observación, siendo uno de ellos el grupo ajeno (por ejemplo: las plantas de sus casas, insectos del patio, o fotos de organismos en internet). 
-
-2. Una vez planteada la pregunta y escogidos los taxones, deberán consturir una matriz morfológica de 5 caracteres usando el criterio de homología primaria y las estrategias de codificación de caracteres explicadas en clase.  
-
-3. Como resultado de este ejercicio, deben subir al Drive un documento con las siguientes tres cosas: (1) la pregunta y la escogencia de taxones; (2) la tabla de caracteres y (3) la matriz. 
-
-#
-
-## PARTE 2: Matrices con datos de secuencias de ADN
+## Matrices con datos de secuencias de ADN
 
 # Formatos
 
@@ -65,9 +50,9 @@ Más información sobre el formato PHY: [Aquí](http://evolution.genetics.washin
 
 #
 
-## PARTE 3: Ejercicios avanzados (OPCIONALES)
+## Ejercicios avanzados (OPCIONALES)
 
-6. Paso a paso para generar matrices en Mesquite
+1. Paso a paso para generar matrices en Mesquite
 
 Escoja seis organismos de su interés (5 del grupo interno y 1 grupo ajeno), construya una matriz de cinco caracteres homólogos y guárdela en los formatos TNT, NEXUS y PHYLIP. A continuación se encuentran las instrucciones básicas para construir esta matriz en Mesquite:
 
@@ -119,7 +104,7 @@ Escoja seis organismos de su interés (5 del grupo interno y 1 grupo ajeno), con
 
         - File, Export y escoger el formato.
 
-7. Generar y subir matrices en R
+2. Generar y subir matrices en R
 
 Sin duda, R es la mejor plataforma para trabajar con datos filogenéticos. Por esto es importante familiarizarse con esta plataforma y entender como trabajar con las matrices desde allí. Para este ejercicio no es necesario tener destrezas de programación, pero si recomienda estar familiarizado con elementos básicos de sintaxis en R. Para más información, [esta guía básica es útil](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf).
 
@@ -216,5 +201,3 @@ morph.matrix
 matriz_morfo <- read_nexus_matrix("morfologia.nex")
 matriz_morfo
 ```
-
-- Repita este ejercicio con la matriz de 5 x 5 que generó en Mesquite y en R y subir el script de R al DRIVE del curso si decide hacer este ejercicio.
