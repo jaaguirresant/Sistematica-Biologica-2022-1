@@ -57,19 +57,15 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 #
 
-**Clase 1. Esta clase estará dividida en dos partes:**
+**Clase 1. Repaso árboles filogenéticos y caracteres.** Durante la primera parte de la clase haremos un breve repaso de conceptos fundamentales sobre la lectura de árboles filogenéticos y la interpretación de la evolución de los caracteres. Esta clase incluye una corta presentación con pequeños quizes anónimos relámpago para evaluar qué tan solidos están los conceptos básicos por parte de los estudiantes. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas.
 
-**1. Repaso árboles filogenéticos y caracteres.** Durante la primera parte de la clase haremos un breve repaso de conceptos fundamentales sobre la lectura de árboles filogenéticos y la interpretación de la evolución de los caracteres. Esta clase incluye una corta presentación con pequeños quizes anónimos relámpago para evaluar qué tan solidos están los conceptos básicos por parte de los estudiantes. Para interactuar virtualmente en esta presentación, los estudiantes deben entrar al enlace que enviará el profesor al comienzo de la clase. Para que el enlace funcione, los estudiantes deben tener sus cuentas de correo abiertas.
-
-**2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)). **CANCELADO (ver nuevas instrucciones en Clase # 3)**
-
-**Tarea.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf) y el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf)
+**Tarea.** Leer para la próxima clase la siguiente guía rápida de generación de matrices morfológicas: [Matrices](/clase_1/Matrices.pdf), el [Capítulo 4 del libro de Lanteri & Cigliano 2006](/clase_1/Lanteri_Caracteres_taxonomicos.pdf) y las secciones de introducción y métodos del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf).
 
 #
 
-**[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** Esta clase estará dividida en dos partes:
+**[Clase 2](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** 
 
-**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las preguntas del siguiente taller: [Taller 1](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
+**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética con base en la lectura del artículo de [Argnarsson (2004)](/clase_1/Agnarsson_2004.pdf). Para esta actividad haremos la discusión con base en las siguientes preguntas: [Preguntas dirigidas](/clase_2/Taller_1.md) y una corta charla (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
 
 <p align="center">
   <img src="https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg" width="200" height="200" />
@@ -77,11 +73,11 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 [Fuente de la_imagen](https://desinsectador.files.wordpress.com/2013/06/steatoda-nobilis-01.jpg)
 
-**Tarea:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1SP-YRP3jQhl2p5EDTzSmP5smE9-PBpBB?usp=sharing).
+**2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)).
 
-**2. Matrices de caracteres para inferencia filogenética.** En esta parte práctica sentaremos las bases de la construcción de matrices de datos para inferir hipótesis filogenéticas. Hablaremos sobre homología primaria y codificación de matrices y haremos un taller de construcción de matrices morfológicas y de secuencias de ADN. En este último ejercicio aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender los formatos de archivos para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_4.md).
+**3. Matrices de caracteres para inferencia filogenética.** En esta parte práctica sentaremos las bases de la construcción de matrices de datos para inferir hipótesis filogenéticas. Hablaremos sobre homología primaria y codificación de matrices y haremos un taller de construcción de matrices morfológicas y de secuencias de ADN. En este último ejercicio aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender los formatos de archivos para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_4.md).
 
-**Tarea:** Subir las respuestas del taller 2 a la carpeta "Taller 2" del [Drive del curso](https://drive.google.com/drive/folders/1SP-YRP3jQhl2p5EDTzSmP5smE9-PBpBB?usp=sharing).
+**Tarea:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1m96VlJSvoxQtYfrDVoSJved-L9_Uu0hH?usp=sharing).
 
 **_NOTA:_** Para las próximas dos clases se requiere leer alguno de los siguientes artículos:
 
@@ -97,9 +93,7 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
 </p>
 
-**NOTA 1:** Para quien quiera ir prácticando con el script de R que usaremos en la próxima clase, se puede bajar [aquí](/clase_5/parsimonia.R)
-
-**NOTA 2:** Lea [aquí](/clase_3/nuevo_proyecto.md) las nuevas instrucciones para el proyecto del módulo.
+**NOTA:** Para quien quiera ir prácticando con el script de R que usaremos en la próxima clase, se puede bajar [aquí](/clase_5/parsimonia.R)
 
 #
 
@@ -113,7 +107,7 @@ La nota del módulo será dividida de la siguiente manera: talleres y tareas (60
 
 **[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**. Para ejecutar este escript deben guardar el siguiente archivo con el nombre "ADN.nex" usando un editor texto: (ir al archivo: [ADN.nex](/clase_3/ADN.nex)).
 
-**NOTA:** Para la clase del martes leer:
+**NOTA:** Para la clase del jueves leer:
 
 [Baum & Smith (2013)](/clase_5/baumsmith2013_ML.pdf)(Texto en inglés) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf) (Texto en español)
 
@@ -149,13 +143,10 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 
 #
 
-#
-
-**Clase 7. Evaluación crítica de hipótesis filogenéticas** En esta clase estudiaremos de forma crítica algunos aspectos metodológicos y biológicos generales que deben tenerse en cuenta en los análisis de inferencia filogenética, entre ellos: las medidas de confianza, conflicto en las particiones de datos y la filogenia de genes vs. filogenia de las especies. Para esto haremos una corta clase donde mencionaremos estos aspectos y algunas ayudas metodológicas para sobrellevarlos ([bajar diapositivas acá](/clase_8/clase_8.pdf)).
+**Clase 7. Evaluación crítica de hipótesis filogenéticas** En esta clase estudiaremos de forma crítica algunos aspectos metodológicos y biológicos generales que deben tenerse en cuenta en los análisis de inferencia filogenética, entre ellos: las medidas de confianza, conflicto en las particiones de datos y la filogenia de genes vs. filogenia de las especies. Para esto haremos una clase donde mencionaremos estos aspectos y algunas ayudas metodológicas para sobrellevarlos ([bajar diapositivas acá](/clase_8/clase_8.pdf)).
 
 <p align="center">
   <img src="https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png" width="350" height="250" />
 </p>
 
 [Fuente de la imagen](https://www.researchgate.net/publication/330808851/figure/fig1/AS:721682977275905@1549074038961/Effect-of-introgression-and-incomplete-lineage-sorting-ILS-in-molecular.png)
-
