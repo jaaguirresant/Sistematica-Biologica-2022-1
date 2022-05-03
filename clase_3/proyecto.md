@@ -60,7 +60,7 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 [Fuente de la imagen](https://entomology.k-state.edu/extension/4-h-and-youth/Guide-to-Insect-Orders/phasmatodea.html)
 
-**GRUPOS 5 y 6:** POR DEFINIR...
+**GRUPOS 5 y 6:** La familia Camelidae agrupa a seis especies: los camellos bactrianos, los camellos dormedarios, las llamas, las vicuñas, las alpacas y los guanacos. Sorprendentemente los dos primeros habitan el norte de África y Asia, mientras que el resto de las especies habita los Andes en Suramerica. Con base en esto, la primer pregunta que surge es ¿cómo las relaciones evolutivas entre estas especies ayudan a explicar esta disyunta distribución geográfica de las especies? Adicionalmente, es amplimente conocido que las llamas y las alpacas son domesticadas, pero se desconoce realmente cual es su respectivo pariente silvestre más cercano. En este contexto surge la pregunta: ¿Cuál es el pariente silvestre más cercano de las llamas y las alpacas? 
 
 <p align="center">
   <img src="https://i.imgur.com/JVGeGQY.jpg" width="330" height="330" />
@@ -74,7 +74,7 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **b. Muestreo de caracteres:** deben ser secuencias de ADN, limitadas a 1–3 marcadores: (p.e. COI, 18S o CytB para animales y matK, trnLF, rbcl para plantas). Se pueden usar caracteres morfológicos también (opcional).
 
-**c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. Inferencia Hennigiana, Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
+**c. Análisis de inferencia filogenética:** usar uno o varios métodos de inferencia filogenética (p.e. Máxima Parsimonia, Máxima Verosimilitud, Inferencia Bayesiana).
 
 **d. Medidas de confianza:** usar por lo menos una medida de soporte (p.e. bootstrap, Jacknife, Bremer, Probabilidad Posterior).
 
