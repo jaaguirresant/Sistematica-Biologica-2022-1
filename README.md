@@ -53,9 +53,9 @@ La nota del módulo será dividida de la siguiente manera: talleres, quizes y ta
 
 #
 
-**[Clase 1](/clase_2/clase_2.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** 
+**[Clase 1](/clase_2/Clase_1_2022_1.pdf). Estructura de un estudio de inferencia filogenética y construcción de matrices.** 
 
-**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética (bajar la presentación [aquí](/clase_2/clase_2.pdf)). 
+**1. Estructura de un estudio de inferencia filogenética.** Exploración del esqueleto de un estudio de inferencia filogenética (bajar la presentación [aquí](/clase_2/Clase_1_2022_1.pdf)). 
 
 **2. Explicación del proyecto del módulo** (ver las instruciones del proyecto [aquí](/clase_3/proyecto.md)).
 
