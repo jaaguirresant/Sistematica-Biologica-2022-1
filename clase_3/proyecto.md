@@ -63,8 +63,10 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 **GRUPOS 5 y 6:** POR DEFINIR...
 
 <p align="center">
-  <img src="https://i.imgur.com/JVGeGQY.jpg" width="330" height="300" />
+  <img src="https://i.imgur.com/JVGeGQY.jpg" width="330" height="330" />
 </p>
+
+[Fuente de la imagen](https://i.imgur.com/JVGeGQY.jpg)
 
 #### 3. Pautas del estudio filogenético
 
