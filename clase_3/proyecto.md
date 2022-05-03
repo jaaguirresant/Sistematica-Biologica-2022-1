@@ -62,6 +62,10 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **GRUPOS 5 y 6:** POR DEFINIR...
 
+<p align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sporcle.com%2Fgames%2FAlcas%2Fthe-sporclers-new-groove&psig=AOvVaw3AoWapPPwHRdUkZBAhEVcS&ust=1651633019509000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPj1g9GqwvcCFQAAAAAdAAAAABBK" width="330" height="300" />
+</p>
+
 #### 3. Pautas del estudio filogenético
 
 **a. Muestreo de taxones:** máximo 20 taxones, incluyendo grupo(s) ajeno(s)
