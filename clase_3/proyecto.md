@@ -14,12 +14,14 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|Nicolas Romero Villamil, Lina María Méndez Urrea, Adelaida Turriago Mora|https://meet.google.com/txm-noak-kxe|
-Grupo_2|Gabriela Muñoz Quintana, Boris Alejandro Cardenas Contreras, Xaira Natalia Muñoz Esguerra|https://meet.google.com/znt-nkgk-spt|
-Grupo_3|Manuel Alejandro Tobos Jimenez, Harryson Giovanny Avila Orjuela, Santiago Castaño Sirosi, Doris Daniela Tolosa|https://meet.google.com/fmm-vgjb-jfa|
-Grupo_4|Lenis Lorena Pardo, Andrés Nicolás Ramírez Barrers, Angy Melissa Rozo Leal, Santiago Cortes Camargo|https://meet.google.com/vja-tcaj-tzk|
-Grupo_5|Santiago Alberto Samudio Sánchez, Diego Alejandro Serrano, Hans Deyvy Escobar Hurtado, Andres Camilo Betancourt Pulido|https://meet.google.com/xsj-swtt-qrj|
-Grupo_6| LUISA CASALLAS, Nicolas Castaño Sirosi, Yeison Dannilo Escobar Avila |https://meet.google.com/pqb-zqob-aez|
+Grupo_1|ESTUDIANTES|ENLACE|
+Grupo_2|ESTUDIANTES|ENLACE|
+Grupo_3|ESTUDIANTES|ENLACE|
+Grupo_4|ESTUDIANTES|ENLACE|
+Grupo_5|ESTUDIANTES|ENLACE|
+Grupo_6|ESTUDIANTES|ENLACE|
+Grupo_7|ESTUDIANTES|ENLACE|
+Grupo_8|ESTUDIANTES|ENLACE|
 
 
 
@@ -58,6 +60,8 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 [Fuente de la imagen](https://entomology.k-state.edu/extension/4-h-and-youth/Guide-to-Insect-Orders/phasmatodea.html)
 
+**GRUPOS 5 y 6:** POR DEFINIR...
+
 #### 3. Pautas del estudio filogenético
 
 **a. Muestreo de taxones:** máximo 20 taxones, incluyendo grupo(s) ajeno(s)
@@ -68,11 +72,11 @@ A pesar de las grandes ventajas evolutivas que las alas le confirieron a la mayo
 
 **d. Medidas de confianza:** usar por lo menos una medida de soporte (p.e. bootstrap, Jacknife, Bremer, Probabilidad Posterior).
 
-#### 4. Presentación de resultados (Martes 11 de enero de 2022).
+#### 4. Presentación de resultados (21 y 23 de junio).
 
 a. Escribir un resumen tipo congreso de máximo 300 palabras donde describan las premisas del estudio, métodos, resultados y conclusión.
 
-b. Preparar una presentación de diapositivas del estudio de máximo 10 minutos.
+b. Preparar una presentación de diapositivas del estudio de máximo 15 minutos.
 
 
 #### 5. Discusión
