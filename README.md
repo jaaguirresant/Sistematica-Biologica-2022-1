@@ -79,13 +79,7 @@ La nota del módulo será dividida de la siguiente manera: talleres, quizes y ta
 
 **[IR AL TALLER](/clase_4/Taller_MP.md)**
 
-
-
-**NOTA:** Para quien quiera ir prácticando con el script de R que usaremos en la próxima clase, se puede bajar [aquí](/clase_5/parsimonia.R)
-
-#
-
-**[Clase 4](/clase_5/Taller_MP2.md). Máxima Parsimonia II.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia ([bajar diapositivas aquí](/clase_5/Clase_5.pdf)) y termina con una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el paquete Phangorn de R. 
+**Talleres opcionales: Inferencia de Máxima Parsimonia en TNT y en R:**
 
 **[IR AL TALLER OPCIONAL DE TNT](/clase_5/Taller_TNT.md)**
 
