@@ -69,16 +69,17 @@ La nota del módulo será dividida de la siguiente manera: talleres, quizes y ta
 
 #
 
-**[Clase 2](/clase_4/Taller_MP.md). Máxima Parsimonia** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_4/Clase_4.pdf). 
-
-
-Para la parte práctica, haremos el siguiente taller con los mismos grupos de trabajo de siempre: 
-
-**[IR AL TALLER](/clase_4/Taller_MP.md)**
+**[Clase 2](/clase_4/Taller_MP.md). Máxima Parsimonia** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). 
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
 </p>
+
+**Tarea:**
+
+**[IR AL TALLER](/clase_4/Taller_MP.md)**
+
+
 
 **NOTA:** Para quien quiera ir prácticando con el script de R que usaremos en la próxima clase, se puede bajar [aquí](/clase_5/parsimonia.R)
 
@@ -86,15 +87,11 @@ Para la parte práctica, haremos el siguiente taller con los mismos grupos de tr
 
 **[Clase 4](/clase_5/Taller_MP2.md). Máxima Parsimonia II.** En esta clase se explican algunas ramificaciones de la Máxima Parsimonia ([bajar diapositivas aquí](/clase_5/Clase_5.pdf)) y termina con una práctica computacional de inferencia filogenética con Máxima Parsimonia usando el paquete Phangorn de R. 
 
-<p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
-</p>
-
 **[IR AL TALLER OPCIONAL DE TNT](/clase_5/Taller_TNT.md)**
 
 **[IR AL SCRIPT DE R](/clase_5/parsimonia.R)**. Para ejecutar este escript deben guardar el siguiente archivo con el nombre "ADN.nex" usando un editor texto: (ir al archivo: [ADN.nex](/clase_3/ADN.nex)).
 
-**NOTA:** Para la clase del jueves leer:
+**NOTA:** Para la clase del martes leer:
 
 [Baum & Smith (2013)](/clase_5/baumsmith2013_ML.pdf)(Texto en inglés) **o** [Abascal et al (2014)](/clase_5/ML_Espanol.pdf) (Texto en español)
 
