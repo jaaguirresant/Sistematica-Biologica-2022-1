@@ -1,4 +1,4 @@
-# TALLER. MÉTODOS DE DISTANCIA, ARGUMENTACIÓN HENNIGIANA Y MÁXIMA PARSIMONIA
+# TALLER. ARGUMENTACIÓN HENNIGIANA Y MÁXIMA PARSIMONIA
 
 _[Volver a inicio](/README.md)_
 
@@ -13,11 +13,9 @@ Considere la siguiente matriz de caracteres, cuyo grupo interno son varios taxon
 ![](/clase_4/matriz.jpg)
 
 
-1. Con base en esta matriz, genere una submatriz de 5 taxones (pino, aguacate, soya, cacao y tomate), genere la matriz de distancias entre estos taxones e infiera el árbol de distancias usando UPGMA.
+1. Con base en la matriz, infiera el árbol usando argumentación Hennigiana.
 
-2. Con base en la matriz completa, infiera el árbol usando argumentación Hennigiana.
-
-3. Con base en la matriz completa, infiera cual de los siguiente dos árboles es el más parsimonioso y cuál es su longitud usando el criterio de optimalidad de la Máxima Pasimonia:
+3. Con base en la matriz, infiera cual de los siguiente dos árboles es el más parsimonioso y cuál es su longitud usando el criterio de optimalidad de la Máxima Pasimonia:
 
 **Árbol 1**:
 
@@ -72,15 +70,3 @@ Con base en esta información:
 3. Indique cual es la hipótesis filogenética más parsimoniosa.
 
 #
-
-## PARTE 4
-
-#
-
-Con base al siguiente árbol y el caracter ilustrado en la siguiente figura:
-
-![](Ejercicio_4.png)
-
-1. Optimice el caracter usando la optmización ACCTRAN y estime el número de pasos del caracter.
-
-2. Optimice el caracter usando la optmización DELTRAN y estime el número de pasos del caracter.
