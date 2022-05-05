@@ -69,7 +69,7 @@ La nota del módulo será dividida de la siguiente manera: talleres, quizes y ta
 
 #
 
-**[Clase 2](/clase_4/Taller_MP.md). Máxima Parsimonia** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_2/clase_2.pdf). 
+**[Clase 2](/clase_4/Taller_MP.md). Máxima Parsimonia** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética y abordaremos el concepto del criterio de optimalidad y el método de la Máxima Parsimonia. Descargar diapositivas [aquí](/clase_2/clase_2_22.pdf). 
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_2/Hennig_book.jpg" width="130" height="200" />
