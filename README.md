@@ -61,7 +61,7 @@ La nota del módulo será dividida de la siguiente manera: talleres, quizes y ta
 
 **3. Matrices de caracteres para inferencia filogenética.** En esta parte práctica sentaremos las bases de la construcción de matrices de datos para inferir hipótesis filogenéticas. Hablaremos sobre homología primaria y codificación de matrices y haremos un taller de construcción de matrices morfológicas y de secuencias de ADN. En este último ejercicio aprenderán las bases para descargar datos de [GenBank](https://www.ncbi.nlm.nih.gov/nucleotide/); entender un archivo de extensión "fasta"; generar un alineamiento de secuencias con mafft; y entender los formatos de archivos para inferencia filogenética. La instrucciones detalladas del taller se encuentran [aquí](/clase_3/Taller_4.md).
 
-**Tarea 1:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso]() a mas tardar el lunes 9 de mayo.
+**Tarea 1:** Subir las respuestas del taller 1 a la carpeta "Taller 1" del [Drive del curso](https://drive.google.com/drive/folders/1oofZp-S0-rdIkpuF6mQJTRcPjvlkgK7D?usp=sharing) a mas tardar el lunes 9 de mayo.
 
 **_NOTA:_** Para la próxima clases se requiere leer alguno de los siguientes artículos:
 
