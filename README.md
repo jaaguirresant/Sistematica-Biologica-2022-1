@@ -91,7 +91,7 @@ La nota del módulo será dividida de la siguiente manera: talleres, quizes y ta
 
 #
 
-**Clase 5. Inferencia filogenética paramétrica.** A partir de esta clase estudiaremos los métodos de inferencia filogenética que usan modelos explícitos de evolución. En esta clase abordaremos los fundamentos para entender los modelos de sustición de nucleótidos y su uso para estimar la verosimilitud de una hipótesis filogenética ([Descargar diapositivas aquí](/clase_6/clase_6.pdf)).
+**Clase 3. Inferencia filogenética paramétrica.** A partir de esta clase estudiaremos los métodos de inferencia filogenética que usan modelos explícitos de evolución. En esta clase abordaremos los fundamentos para entender los modelos de sustición de nucleótidos y su uso para estimar la verosimilitud de una hipótesis filogenética ([Descargar diapositivas aquí](/clase_6/clase_6.pdf)).
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
