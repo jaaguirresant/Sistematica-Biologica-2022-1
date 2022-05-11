@@ -14,9 +14,9 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Enlace videollamada|
 |---|---|---|
-Grupo_1|ESTUDIANTES|ENLACE|
-Grupo_2|ESTUDIANTES|ENLACE|
-Grupo_3|ESTUDIANTES|ENLACE|
+Grupo_1|Mariana Betancur, Juan Andrés Palacios, estudiante 3, estudiante 4|ENLACE|
+Grupo_2|Luis Carlos Lavado, Santiago Cardozo, estudiante 3, estudiante 4|ENLACE|
+Grupo_3|Gabriel Ruiz, Sebastián Sánchez, David López|ENLACE|
 Grupo_4|ESTUDIANTES|ENLACE|
 Grupo_5|ESTUDIANTES|ENLACE|
 Grupo_6|ESTUDIANTES|ENLACE|
