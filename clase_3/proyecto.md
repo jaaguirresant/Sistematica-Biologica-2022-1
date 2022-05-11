@@ -12,16 +12,16 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 #### 1. Grupos de trabajo
 
-|Grupo No.|Integrantes|Enlace videollamada|
+|Grupo No.|Integrantes|Tema|
 |---|---|---|
-Grupo_1|Mariana Betancur, Juan Andrés Palacios, estudiante 3, estudiante 4|ENLACE|
-Grupo_2|Luis Carlos Lavado, Santiago Cardozo, estudiante 3, estudiante 4|ENLACE|
-Grupo_3|Gabriel Ruiz, Sebastián Sánchez, David López|ENLACE|
-Grupo_4|ESTUDIANTES|ENLACE|
-Grupo_5|ESTUDIANTES|ENLACE|
-Grupo_6|ESTUDIANTES|ENLACE|
-Grupo_7|ESTUDIANTES|ENLACE|
-Grupo_8|ESTUDIANTES|ENLACE|
+Grupo_1|Mariana Betancur, Juan Andrés Palacios, estudiante 3, estudiante 4|Primates|
+Grupo_2|Luis Carlos Lavado, Santiago Cardozo, estudiante 3, estudiante 4|Primates|
+Grupo_3|Gabriel Ruiz, Sebastián Sánchez, David López|Gnetum|
+Grupo_4|Adriana Vargas, Andrea Retavisca, Sabina Hernández, Valentina Verdugo|Gnetum|
+Grupo_5|Maria Paz Medina, Daniel Santiago Bermúdez, Danna Duque, Zhara Cubillos|Phasmidae|
+Grupo_6|Juan Pablo Bernal, Natali Torres, Valeria Triana, Janira Melgarejo|Phasmidae|
+Grupo_7|Laura Fernanda Rendón, Sebastián Contreras, Tania Beltrán, Samuel Caballero|Camelidae|
+Grupo_8|Eliana Osorno, María Camila Matiz, Valeria Buitrago, Yamid Benavides|Camelidae|
 
 
 
