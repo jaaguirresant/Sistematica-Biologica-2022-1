@@ -102,5 +102,5 @@ La clase estará complementada con una tarea de cálculo manual de la verosimili
 **NOTA 1:** Se recomienda explorar el programa [RAxML-GUI](https://antonellilab.github.io/raxmlGUI/). Más información sobre RAxML_GUI [aquí](/clase_6/raxmlGUI_a_graphical_front-end_for_RaxML.pdf)
 
 #
-
+**Clase 4. Máxima Verosimilitud II, Inferencia Bayesiana y conflicto.** En esta clase se concluye con el tema de la Máxima Verosimilitud y se cubre la implementación de la estadística bayesiana en el contexto de la inferencia filogenética. La clase finaliza con una explicación de los principales métodos de medidas de confinaza en filogenética (bajar diapositivas [aquí](/clase_7/clase_7.pdf). 
 #
