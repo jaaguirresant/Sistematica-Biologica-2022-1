@@ -14,7 +14,7 @@ Aprender a combinar la teoría y herramientas aprendidas en este módulo para ll
 
 |Grupo No.|Integrantes|Tema|
 |---|---|---|
-Grupo_1|Mariana Betancur, Juan Andrés Palacios, estudiante 3, estudiante 4|Primates|
+Grupo_1|Mariana Betancur, Juan Andrés Palacios, Sebastian López, estudiante 4|Primates|
 Grupo_2|Luis Carlos Lavado, Santiago Cardozo, estudiante 3, estudiante 4|Primates|
 Grupo_3|Gabriel Ruiz, Sebastián Sánchez, David López|Gnetum|
 Grupo_4|Adriana Vargas, Andrea Retavisca, Sabina Hernández, Valentina Verdugo|Gnetum|
